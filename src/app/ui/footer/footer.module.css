@@ -1,0 +1,53 @@
+.footer {
+  width: 100%;
+  background-color: #ffb770;
+}
+
+.container {
+  display: flex;
+  justify-content: space-evenly;
+
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px 30px;
+  max-width: 1440px;
+}
+
+.wrap {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+
+  padding: 40px;
+
+  font-size: 28px;
+}
+
+.linksList {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+
+  font-size: 34px;
+}
+
+.iconsLink {
+  display: block;
+  color: #000000;
+  padding: 5px;
+
+  transition: color 300ms ease-in;
+}
+
+.icons:hover,
+.icons:focus {
+  color: #ff5a00;
+}
+
+.map {
+  height: 250px;
+  width: 400px;
+
+  border: none;
+  border-radius: 5px;
+}

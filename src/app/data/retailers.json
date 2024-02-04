@@ -1,0 +1,86 @@
+[
+  {
+    "name": "Свій Маркет",
+    "id": 0,
+    "image": "/images/retailers/sviy-market.svg",
+    "website": "https://sviymarket.com/"
+  },
+  {
+    "id": 1,
+    "name": "Сім23",
+    "image": "/images/retailers/23-7.svg",
+    "website": "https://sim23.ua/"
+  },
+  {
+    "id": 2,
+    "name": "АТБ",
+    "image": "/images/retailers/atb.svg",
+    "website": "https://www.atbmarket.com/"
+  },
+  {
+    "id": 3,
+    "name": "Ашан",
+    "image": "/images/retailers/auchan.svg",
+    "website": "https://auchan.ua/"
+  },
+  {
+    "id": 4,
+    "name": "Близенько",
+    "image": "/images/retailers/blizenko.svg",
+    "website": "https://blyzenko.ua/"
+  },
+  {
+    "id": 5,
+    "name": "Dini",
+    "image": "/images/retailers/dini.svg",
+    "website": "https://dini.ua/"
+  },
+  {
+    "id": 6,
+    "name": "Економ",
+    "image": "/images/retailers/econom.svg",
+    "website": "https://econom.plus/"
+  },
+  {
+    "id": 7,
+    "name": "Eva",
+    "image": "/images/retailers/eva.svg",
+    "website": "https://eva.ua/"
+  },
+  {
+    "name": "Fozzy",
+    "id": 8,
+    "image": "/images/retailers/fozzy.svg",
+    "website": "https://fozzyshop.ua/"
+  },
+  {
+    "name": "Лайм",
+    "id": 9,
+    "image": "/images/retailers/lime.svg",
+    "website": "https://lime.org.ua/"
+  },
+  {
+    "name": "Метро",
+    "id": 10,
+    "image": "/images/retailers/metro.svg",
+    "website": "https://www.metro.ua/"
+  },
+  {
+    "name": "Prostor",
+    "id": 11,
+    "image": "/images/retailers/prostor.svg",
+    "website": "https://prostor.ua/"
+  },
+  {
+    "name": "Рукавичка",
+    "id": 12,
+    "image": "/images/retailers/rykavychka.svg",
+    "website": "https://rukavychka.ua/"
+  },
+  {
+    "name": "Сільпо",
+    "id": 13,
+    "image": "/images/retailers/silpo.svg",
+    "website": "https://shop.silpo.ua/"
+  }
+]

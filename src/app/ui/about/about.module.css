@@ -13,7 +13,7 @@
   background: #ffb770;
   text-decoration: none;
   border-radius: 0.3em;
-  transition: 0.3s ease-out;
+  transition: 300ms ease-out;
 }
 
 .item:hover {
@@ -37,5 +37,5 @@
   text-align: center;
   font-weight: bold;
   border-radius: 2em;
-  transition: all 0.3s ease-out;
+  transition: all 600ms ease-out;
 }
