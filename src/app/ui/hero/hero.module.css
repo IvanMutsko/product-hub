@@ -1,0 +1,28 @@
+.hero {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 400px;
+
+  background-image: linear-gradient(
+      rgba(255, 255, 255, 0.3),
+      rgba(0, 0, 0, 0.8)
+    ),
+    url("../../../../public/images/hero-bg.webp");
+
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.title {
+  color: #ff5a00;
+  font-size: 48px;
+  text-align: center;
+}
+
+.title span {
+  color: #fff;
+  font-style: italic;
+  font-size: 38px;
+}

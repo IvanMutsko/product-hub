@@ -1,0 +1,41 @@
+.list {
+  counter-reset: li;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.item {
+  position: relative;
+  display: block;
+  padding: 0.4em 0.4em 0.4em 2em;
+  margin: 0.5em 0;
+  background: #ffb770;
+  text-decoration: none;
+  border-radius: 0.3em;
+  transition: 0.3s ease-out;
+}
+
+.item:hover {
+  background: #e9e4e0;
+}
+.item:hover:before {
+  transform: rotate(360deg);
+}
+.item:before {
+  content: counter(li);
+  counter-increment: li;
+  position: absolute;
+  left: -1.3em;
+  top: 50%;
+  margin-top: -1em;
+  background: #ff5a00;
+  height: 2em;
+  width: 2em;
+  line-height: 150%;
+  border: 0.3em solid #fff;
+  text-align: center;
+  font-weight: bold;
+  border-radius: 2em;
+  transition: all 0.3s ease-out;
+}
