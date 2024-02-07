@@ -1,3 +1,20 @@
+:root {
+  --accent-color: #ff5a00;
+  --secondary-color: #fc894b;
+  --light-bg-color: #ffb770;
+  --text-color: #000000;
+  --header-bg-color: rgba(255, 255, 255, 0.7);
+  --white-color: #ffffff;
+  --light-gray: #e9e4e0;
+
+  --hero-gradient: linear-gradient(
+    rgba(255, 255, 255, 0.3),
+    rgba(0, 0, 0, 0.8)
+  );
+
+  --header-shadow: 0px 1px 8px 1px rgba(0, 0, 0, 0.75);
+}
+
 *,
 ::before,
 ::after {

@@ -4,10 +4,7 @@
   align-items: center;
   height: 400px;
 
-  background-image: linear-gradient(
-      rgba(255, 255, 255, 0.3),
-      rgba(0, 0, 0, 0.8)
-    ),
+  background-image: var(--hero-gradient),
     url("../../../../public/images/hero-bg.webp");
 
   background-position: center;
@@ -16,13 +13,13 @@
 }
 
 .title {
-  color: #ff5a00;
+  color: var(--accent-color);
   font-size: 48px;
   text-align: center;
 }
 
 .title span {
-  color: #fff;
+  color: var(--white-color);
   font-style: italic;
   font-size: 38px;
 }

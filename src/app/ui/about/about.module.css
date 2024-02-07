@@ -10,17 +10,17 @@
   display: block;
   padding: 0.4em 0.4em 0.4em 2em;
   margin: 0.5em 0;
-  background: #ffb770;
+  background: var(--light-bg-color);
   text-decoration: none;
   border-radius: 0.3em;
   transition: 300ms ease-out;
 }
 
 .item:hover {
-  background: #e9e4e0;
+  background: var(--light-gray);
 }
 .item:hover:before {
-  transform: rotate(360deg);
+  transform: scale(1.05);
 }
 .item:before {
   content: counter(li);
@@ -29,11 +29,11 @@
   left: -1.3em;
   top: 50%;
   margin-top: -1em;
-  background: #ff5a00;
+  background: var(--accent-color);
   height: 2em;
   width: 2em;
   line-height: 150%;
-  border: 0.3em solid #fff;
+  border: 0.3em solid var(--white-color);
   text-align: center;
   font-weight: bold;
   border-radius: 2em;

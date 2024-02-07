@@ -1,5 +1,5 @@
 .title {
   font-size: 28px;
-  color: #ff5a00;
+  color: var(--accent-color);
   font-weight: 700;
 }

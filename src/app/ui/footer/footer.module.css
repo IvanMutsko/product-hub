@@ -1,6 +1,6 @@
 .footer {
   width: 100%;
-  background-color: #ffb770;
+  background-color: var(--light-bg-color);
 }
 
 .container {
@@ -33,7 +33,7 @@
 
 .iconsLink {
   display: block;
-  color: #000000;
+  color: var(--text-color);
   padding: 5px;
 
   transition: color 300ms ease-in;
@@ -41,7 +41,7 @@
 
 .icons:hover,
 .icons:focus {
-  color: #ff5a00;
+  color: var(--accent-color);
 }
 
 .map {
