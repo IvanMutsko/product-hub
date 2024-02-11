@@ -1,0 +1,15 @@
+.container {
+  display: flex;
+}
+
+.wrap {
+  min-width: 300px;
+}
+
+.content {
+  flex-grow: 1;
+  max-height: 100vh;
+  overflow: auto;
+
+  padding: 40px;
+}

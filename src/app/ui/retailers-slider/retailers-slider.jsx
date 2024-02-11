@@ -33,8 +33,8 @@ export default function RetailersSlider() {
             <Link href={website} target="_blank" rel="noopener noreferrer">
               <Image
                 src={image}
-                width={100}
-                height={100}
+                height={0}
+                width={0}
                 alt={name}
                 className={styles.logo}
               />

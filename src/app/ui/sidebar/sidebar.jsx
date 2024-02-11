@@ -6,8 +6,9 @@ export default function Sidebar() {
   return (
     <div className={styles.sidebar}>
       <input type="text" />
-      <NavLink url="/">Список товаров</NavLink>
-      <NavLink url="/">Додати товар</NavLink>
+      <NavLink url="/dashboard/products">Список товаров</NavLink>
+      <NavLink url="/dashboard/">Додати товар</NavLink>
+      <NavLink url="/">На головну</NavLink>
     </div>
   );
 }

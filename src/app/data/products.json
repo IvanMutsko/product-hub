@@ -1,0 +1,782 @@
+[
+  {
+    "id": "1",
+    "name": "ВИРОБИ МАКАРОННІ З ТВЕРДИХ СОРТІВ ПШЕНИЦІ FARFALLE №65 BARILLA К/У 500Г",
+    "image": "https://teakava.ua/files/products/38365945-f2de-11ec-81f1-e5f06a4944e7.1800x1200.jpeg",
+    "tradeMark": "Barilla",
+    "country": "Italy",
+    "createCardData": "11.02.2024",
+    "barCode": "8076808060654",
+    "characteristics": {
+      "thing": {
+        "grossWeight": 0.536,
+        "length": 19.6,
+        "width": 6.4,
+        "height": 14
+      },
+      "box": {
+        "quantity": 12,
+        "grossWeight": 6.75,
+        "length": 20.4,
+        "width": 39.8,
+        "height": 29.4
+      },
+      "pallet": {
+        "boxesInLayer": 8,
+        "layersOnPallet": 8,
+        "palletType": "EUR 120x80"
+      }
+    },
+    "nutritionInformation": {
+      "fat": 2,
+      "protein": 13,
+      "carbohydrates": 71,
+      "sugar": 3.5,
+      "energykJ": 1521,
+      "energykcal": 359,
+      "salt": 0.01,
+      "saturatedFat": 0.5
+    }
+  },
+  {
+    "id": "2",
+    "name": "ВИРОБИ МАКАРОННІ З ТВЕРДИХ СОРТІВ ПШЕНИЦІ FARFALLE №65 BARILLA К/У 500Г",
+    "image": "https://teakava.ua/files/products/38365945-f2de-11ec-81f1-e5f06a4944e7.1800x1200.jpeg",
+    "tradeMark": "Barilla",
+    "country": "Italy",
+    "createCardData": "11.02.2024",
+    "barCode": "8076808060654",
+    "characteristics": {
+      "thing": {
+        "grossWeight": 0.536,
+        "length": 19.6,
+        "width": 6.4,
+        "height": 14
+      },
+      "box": {
+        "quantity": 12,
+        "grossWeight": 6.75,
+        "length": 20.4,
+        "width": 39.8,
+        "height": 29.4
+      },
+      "pallet": {
+        "boxesInLayer": 8,
+        "layersOnPallet": 8,
+        "palletType": "EUR 120x80"
+      }
+    },
+    "nutritionInformation": {
+      "fat": 2,
+      "protein": 13,
+      "carbohydrates": 71,
+      "sugar": 3.5,
+      "energykJ": 1521,
+      "energykcal": 359,
+      "salt": 0.01,
+      "saturatedFat": 0.5
+    }
+  },
+  {
+    "id": "3",
+    "name": "ВИРОБИ МАКАРОННІ З ТВЕРДИХ СОРТІВ ПШЕНИЦІ FARFALLE №65 BARILLA К/У 500Г",
+    "image": "https://teakava.ua/files/products/38365945-f2de-11ec-81f1-e5f06a4944e7.1800x1200.jpeg",
+    "tradeMark": "Barilla",
+    "country": "Italy",
+    "createCardData": "11.02.2024",
+    "barCode": "8076808060654",
+    "characteristics": {
+      "thing": {
+        "grossWeight": 0.536,
+        "length": 19.6,
+        "width": 6.4,
+        "height": 14
+      },
+      "box": {
+        "quantity": 12,
+        "grossWeight": 6.75,
+        "length": 20.4,
+        "width": 39.8,
+        "height": 29.4
+      },
+      "pallet": {
+        "boxesInLayer": 8,
+        "layersOnPallet": 8,
+        "palletType": "EUR 120x80"
+      }
+    },
+    "nutritionInformation": {
+      "fat": 2,
+      "protein": 13,
+      "carbohydrates": 71,
+      "sugar": 3.5,
+      "energykJ": 1521,
+      "energykcal": 359,
+      "salt": 0.01,
+      "saturatedFat": 0.5
+    }
+  },
+  {
+    "id": "4",
+    "name": "ВИРОБИ МАКАРОННІ З ТВЕРДИХ СОРТІВ ПШЕНИЦІ FARFALLE №65 BARILLA К/У 500Г",
+    "image": "https://teakava.ua/files/products/38365945-f2de-11ec-81f1-e5f06a4944e7.1800x1200.jpeg",
+    "tradeMark": "Barilla",
+    "country": "Italy",
+    "createCardData": "11.02.2024",
+    "barCode": "8076808060654",
+    "characteristics": {
+      "thing": {
+        "grossWeight": 0.536,
+        "length": 19.6,
+        "width": 6.4,
+        "height": 14
+      },
+      "box": {
+        "quantity": 12,
+        "grossWeight": 6.75,
+        "length": 20.4,
+        "width": 39.8,
+        "height": 29.4
+      },
+      "pallet": {
+        "boxesInLayer": 8,
+        "layersOnPallet": 8,
+        "palletType": "EUR 120x80"
+      }
+    },
+    "nutritionInformation": {
+      "fat": 2,
+      "protein": 13,
+      "carbohydrates": 71,
+      "sugar": 3.5,
+      "energykJ": 1521,
+      "energykcal": 359,
+      "salt": 0.01,
+      "saturatedFat": 0.5
+    }
+  },
+  {
+    "id": "5",
+    "name": "ВИРОБИ МАКАРОННІ З ТВЕРДИХ СОРТІВ ПШЕНИЦІ FARFALLE №65 BARILLA К/У 500Г",
+    "image": "https://teakava.ua/files/products/38365945-f2de-11ec-81f1-e5f06a4944e7.1800x1200.jpeg",
+    "tradeMark": "Barilla",
+    "country": "Italy",
+    "createCardData": "11.02.2024",
+    "barCode": "8076808060654",
+    "characteristics": {
+      "thing": {
+        "grossWeight": 0.536,
+        "length": 19.6,
+        "width": 6.4,
+        "height": 14
+      },
+      "box": {
+        "quantity": 12,
+        "grossWeight": 6.75,
+        "length": 20.4,
+        "width": 39.8,
+        "height": 29.4
+      },
+      "pallet": {
+        "boxesInLayer": 8,
+        "layersOnPallet": 8,
+        "palletType": "EUR 120x80"
+      }
+    },
+    "nutritionInformation": {
+      "fat": 2,
+      "protein": 13,
+      "carbohydrates": 71,
+      "sugar": 3.5,
+      "energykJ": 1521,
+      "energykcal": 359,
+      "salt": 0.01,
+      "saturatedFat": 0.5
+    }
+  },
+  {
+    "id": "6",
+    "name": "ВИРОБИ МАКАРОННІ З ТВЕРДИХ СОРТІВ ПШЕНИЦІ FARFALLE №65 BARILLA К/У 500Г",
+    "image": "https://teakava.ua/files/products/38365945-f2de-11ec-81f1-e5f06a4944e7.1800x1200.jpeg",
+    "tradeMark": "Barilla",
+    "country": "Italy",
+    "createCardData": "11.02.2024",
+    "barCode": "8076808060654",
+    "characteristics": {
+      "thing": {
+        "grossWeight": 0.536,
+        "length": 19.6,
+        "width": 6.4,
+        "height": 14
+      },
+      "box": {
+        "quantity": 12,
+        "grossWeight": 6.75,
+        "length": 20.4,
+        "width": 39.8,
+        "height": 29.4
+      },
+      "pallet": {
+        "boxesInLayer": 8,
+        "layersOnPallet": 8,
+        "palletType": "EUR 120x80"
+      }
+    },
+    "nutritionInformation": {
+      "fat": 2,
+      "protein": 13,
+      "carbohydrates": 71,
+      "sugar": 3.5,
+      "energykJ": 1521,
+      "energykcal": 359,
+      "salt": 0.01,
+      "saturatedFat": 0.5
+    }
+  },
+  {
+    "id": "7",
+    "name": "ВИРОБИ МАКАРОННІ З ТВЕРДИХ СОРТІВ ПШЕНИЦІ FARFALLE №65 BARILLA К/У 500Г",
+    "image": "https://teakava.ua/files/products/38365945-f2de-11ec-81f1-e5f06a4944e7.1800x1200.jpeg",
+    "tradeMark": "Barilla",
+    "country": "Italy",
+    "createCardData": "11.02.2024",
+    "barCode": "8076808060654",
+    "characteristics": {
+      "thing": {
+        "grossWeight": 0.536,
+        "length": 19.6,
+        "width": 6.4,
+        "height": 14
+      },
+      "box": {
+        "quantity": 12,
+        "grossWeight": 6.75,
+        "length": 20.4,
+        "width": 39.8,
+        "height": 29.4
+      },
+      "pallet": {
+        "boxesInLayer": 8,
+        "layersOnPallet": 8,
+        "palletType": "EUR 120x80"
+      }
+    },
+    "nutritionInformation": {
+      "fat": 2,
+      "protein": 13,
+      "carbohydrates": 71,
+      "sugar": 3.5,
+      "energykJ": 1521,
+      "energykcal": 359,
+      "salt": 0.01,
+      "saturatedFat": 0.5
+    }
+  },
+  {
+    "id": "8",
+    "name": "ВИРОБИ МАКАРОННІ З ТВЕРДИХ СОРТІВ ПШЕНИЦІ FARFALLE №65 BARILLA К/У 500Г",
+    "image": "https://teakava.ua/files/products/38365945-f2de-11ec-81f1-e5f06a4944e7.1800x1200.jpeg",
+    "tradeMark": "Barilla",
+    "country": "Italy",
+    "createCardData": "11.02.2024",
+    "barCode": "8076808060654",
+    "characteristics": {
+      "thing": {
+        "grossWeight": 0.536,
+        "length": 19.6,
+        "width": 6.4,
+        "height": 14
+      },
+      "box": {
+        "quantity": 12,
+        "grossWeight": 6.75,
+        "length": 20.4,
+        "width": 39.8,
+        "height": 29.4
+      },
+      "pallet": {
+        "boxesInLayer": 8,
+        "layersOnPallet": 8,
+        "palletType": "EUR 120x80"
+      }
+    },
+    "nutritionInformation": {
+      "fat": 2,
+      "protein": 13,
+      "carbohydrates": 71,
+      "sugar": 3.5,
+      "energykJ": 1521,
+      "energykcal": 359,
+      "salt": 0.01,
+      "saturatedFat": 0.5
+    }
+  },
+  {
+    "id": "9",
+    "name": "ВИРОБИ МАКАРОННІ З ТВЕРДИХ СОРТІВ ПШЕНИЦІ FARFALLE №65 BARILLA К/У 500Г",
+    "image": "https://teakava.ua/files/products/38365945-f2de-11ec-81f1-e5f06a4944e7.1800x1200.jpeg",
+    "tradeMark": "Barilla",
+    "country": "Italy",
+    "createCardData": "11.02.2024",
+    "barCode": "8076808060654",
+    "characteristics": {
+      "thing": {
+        "grossWeight": 0.536,
+        "length": 19.6,
+        "width": 6.4,
+        "height": 14
+      },
+      "box": {
+        "quantity": 12,
+        "grossWeight": 6.75,
+        "length": 20.4,
+        "width": 39.8,
+        "height": 29.4
+      },
+      "pallet": {
+        "boxesInLayer": 8,
+        "layersOnPallet": 8,
+        "palletType": "EUR 120x80"
+      }
+    },
+    "nutritionInformation": {
+      "fat": 2,
+      "protein": 13,
+      "carbohydrates": 71,
+      "sugar": 3.5,
+      "energykJ": 1521,
+      "energykcal": 359,
+      "salt": 0.01,
+      "saturatedFat": 0.5
+    }
+  },
+  {
+    "id": "10",
+    "name": "ВИРОБИ МАКАРОННІ З ТВЕРДИХ СОРТІВ ПШЕНИЦІ FARFALLE №65 BARILLA К/У 500Г",
+    "image": "https://teakava.ua/files/products/38365945-f2de-11ec-81f1-e5f06a4944e7.1800x1200.jpeg",
+    "tradeMark": "Barilla",
+    "country": "Italy",
+    "createCardData": "11.02.2024",
+    "barCode": "8076808060654",
+    "characteristics": {
+      "thing": {
+        "grossWeight": 0.536,
+        "length": 19.6,
+        "width": 6.4,
+        "height": 14
+      },
+      "box": {
+        "quantity": 12,
+        "grossWeight": 6.75,
+        "length": 20.4,
+        "width": 39.8,
+        "height": 29.4
+      },
+      "pallet": {
+        "boxesInLayer": 8,
+        "layersOnPallet": 8,
+        "palletType": "EUR 120x80"
+      }
+    },
+    "nutritionInformation": {
+      "fat": 2,
+      "protein": 13,
+      "carbohydrates": 71,
+      "sugar": 3.5,
+      "energykJ": 1521,
+      "energykcal": 359,
+      "salt": 0.01,
+      "saturatedFat": 0.5
+    }
+  },
+  {
+    "id": "11",
+    "name": "ВИРОБИ МАКАРОННІ З ТВЕРДИХ СОРТІВ ПШЕНИЦІ FARFALLE №65 BARILLA К/У 500Г",
+    "image": "https://teakava.ua/files/products/38365945-f2de-11ec-81f1-e5f06a4944e7.1800x1200.jpeg",
+    "tradeMark": "Barilla",
+    "country": "Italy",
+    "createCardData": "11.02.2024",
+    "barCode": "8076808060654",
+    "characteristics": {
+      "thing": {
+        "grossWeight": 0.536,
+        "length": 19.6,
+        "width": 6.4,
+        "height": 14
+      },
+      "box": {
+        "quantity": 12,
+        "grossWeight": 6.75,
+        "length": 20.4,
+        "width": 39.8,
+        "height": 29.4
+      },
+      "pallet": {
+        "boxesInLayer": 8,
+        "layersOnPallet": 8,
+        "palletType": "EUR 120x80"
+      }
+    },
+    "nutritionInformation": {
+      "fat": 2,
+      "protein": 13,
+      "carbohydrates": 71,
+      "sugar": 3.5,
+      "energykJ": 1521,
+      "energykcal": 359,
+      "salt": 0.01,
+      "saturatedFat": 0.5
+    }
+  },
+  {
+    "id": "q1",
+    "name": "ВИРОБИ МАКАРОННІ З ТВЕРДИХ СОРТІВ ПШЕНИЦІ FARFALLE №65 BARILLA К/У 500Г",
+    "image": "https://teakava.ua/files/products/38365945-f2de-11ec-81f1-e5f06a4944e7.1800x1200.jpeg",
+    "tradeMark": "Barilla",
+    "country": "Italy",
+    "createCardData": "11.02.2024",
+    "barCode": "8076808060654",
+    "characteristics": {
+      "thing": {
+        "grossWeight": 0.536,
+        "length": 19.6,
+        "width": 6.4,
+        "height": 14
+      },
+      "box": {
+        "quantity": 12,
+        "grossWeight": 6.75,
+        "length": 20.4,
+        "width": 39.8,
+        "height": 29.4
+      },
+      "pallet": {
+        "boxesInLayer": 8,
+        "layersOnPallet": 8,
+        "palletType": "EUR 120x80"
+      }
+    },
+    "nutritionInformation": {
+      "fat": 2,
+      "protein": 13,
+      "carbohydrates": 71,
+      "sugar": 3.5,
+      "energykJ": 1521,
+      "energykcal": 359,
+      "salt": 0.01,
+      "saturatedFat": 0.5
+    }
+  },
+  {
+    "id": "w1",
+    "name": "ВИРОБИ МАКАРОННІ З ТВЕРДИХ СОРТІВ ПШЕНИЦІ FARFALLE №65 BARILLA К/У 500Г",
+    "image": "https://teakava.ua/files/products/38365945-f2de-11ec-81f1-e5f06a4944e7.1800x1200.jpeg",
+    "tradeMark": "Barilla",
+    "country": "Italy",
+    "createCardData": "11.02.2024",
+    "barCode": "8076808060654",
+    "characteristics": {
+      "thing": {
+        "grossWeight": 0.536,
+        "length": 19.6,
+        "width": 6.4,
+        "height": 14
+      },
+      "box": {
+        "quantity": 12,
+        "grossWeight": 6.75,
+        "length": 20.4,
+        "width": 39.8,
+        "height": 29.4
+      },
+      "pallet": {
+        "boxesInLayer": 8,
+        "layersOnPallet": 8,
+        "palletType": "EUR 120x80"
+      }
+    },
+    "nutritionInformation": {
+      "fat": 2,
+      "protein": 13,
+      "carbohydrates": 71,
+      "sugar": 3.5,
+      "energykJ": 1521,
+      "energykcal": 359,
+      "salt": 0.01,
+      "saturatedFat": 0.5
+    }
+  },
+  {
+    "id": "e1",
+    "name": "ВИРОБИ МАКАРОННІ З ТВЕРДИХ СОРТІВ ПШЕНИЦІ FARFALLE №65 BARILLA К/У 500Г",
+    "image": "https://teakava.ua/files/products/38365945-f2de-11ec-81f1-e5f06a4944e7.1800x1200.jpeg",
+    "tradeMark": "Barilla",
+    "country": "Italy",
+    "createCardData": "11.02.2024",
+    "barCode": "8076808060654",
+    "characteristics": {
+      "thing": {
+        "grossWeight": 0.536,
+        "length": 19.6,
+        "width": 6.4,
+        "height": 14
+      },
+      "box": {
+        "quantity": 12,
+        "grossWeight": 6.75,
+        "length": 20.4,
+        "width": 39.8,
+        "height": 29.4
+      },
+      "pallet": {
+        "boxesInLayer": 8,
+        "layersOnPallet": 8,
+        "palletType": "EUR 120x80"
+      }
+    },
+    "nutritionInformation": {
+      "fat": 2,
+      "protein": 13,
+      "carbohydrates": 71,
+      "sugar": 3.5,
+      "energykJ": 1521,
+      "energykcal": 359,
+      "salt": 0.01,
+      "saturatedFat": 0.5
+    }
+  },
+  {
+    "id": "q2",
+    "name": "ВИРОБИ МАКАРОННІ З ТВЕРДИХ СОРТІВ ПШЕНИЦІ FARFALLE №65 BARILLA К/У 500Г",
+    "image": "https://teakava.ua/files/products/38365945-f2de-11ec-81f1-e5f06a4944e7.1800x1200.jpeg",
+    "tradeMark": "Barilla",
+    "country": "Italy",
+    "createCardData": "11.02.2024",
+    "barCode": "8076808060654",
+    "characteristics": {
+      "thing": {
+        "grossWeight": 0.536,
+        "length": 19.6,
+        "width": 6.4,
+        "height": 14
+      },
+      "box": {
+        "quantity": 12,
+        "grossWeight": 6.75,
+        "length": 20.4,
+        "width": 39.8,
+        "height": 29.4
+      },
+      "pallet": {
+        "boxesInLayer": 8,
+        "layersOnPallet": 8,
+        "palletType": "EUR 120x80"
+      }
+    },
+    "nutritionInformation": {
+      "fat": 2,
+      "protein": 13,
+      "carbohydrates": 71,
+      "sugar": 3.5,
+      "energykJ": 1521,
+      "energykcal": 359,
+      "salt": 0.01,
+      "saturatedFat": 0.5
+    }
+  },
+  {
+    "id": "w2",
+    "name": "ВИРОБИ МАКАРОННІ З ТВЕРДИХ СОРТІВ ПШЕНИЦІ FARFALLE №65 BARILLA К/У 500Г",
+    "image": "https://teakava.ua/files/products/38365945-f2de-11ec-81f1-e5f06a4944e7.1800x1200.jpeg",
+    "tradeMark": "Barilla",
+    "country": "Italy",
+    "createCardData": "11.02.2024",
+    "barCode": "8076808060654",
+    "characteristics": {
+      "thing": {
+        "grossWeight": 0.536,
+        "length": 19.6,
+        "width": 6.4,
+        "height": 14
+      },
+      "box": {
+        "quantity": 12,
+        "grossWeight": 6.75,
+        "length": 20.4,
+        "width": 39.8,
+        "height": 29.4
+      },
+      "pallet": {
+        "boxesInLayer": 8,
+        "layersOnPallet": 8,
+        "palletType": "EUR 120x80"
+      }
+    },
+    "nutritionInformation": {
+      "fat": 2,
+      "protein": 13,
+      "carbohydrates": 71,
+      "sugar": 3.5,
+      "energykJ": 1521,
+      "energykcal": 359,
+      "salt": 0.01,
+      "saturatedFat": 0.5
+    }
+  },
+  {
+    "id": "e3",
+    "name": "ВИРОБИ МАКАРОННІ З ТВЕРДИХ СОРТІВ ПШЕНИЦІ FARFALLE №65 BARILLA К/У 500Г",
+    "image": "https://teakava.ua/files/products/38365945-f2de-11ec-81f1-e5f06a4944e7.1800x1200.jpeg",
+    "tradeMark": "Barilla",
+    "country": "Italy",
+    "createCardData": "11.02.2024",
+    "barCode": "8076808060654",
+    "characteristics": {
+      "thing": {
+        "grossWeight": 0.536,
+        "length": 19.6,
+        "width": 6.4,
+        "height": 14
+      },
+      "box": {
+        "quantity": 12,
+        "grossWeight": 6.75,
+        "length": 20.4,
+        "width": 39.8,
+        "height": 29.4
+      },
+      "pallet": {
+        "boxesInLayer": 8,
+        "layersOnPallet": 8,
+        "palletType": "EUR 120x80"
+      }
+    },
+    "nutritionInformation": {
+      "fat": 2,
+      "protein": 13,
+      "carbohydrates": 71,
+      "sugar": 3.5,
+      "energykJ": 1521,
+      "energykcal": 359,
+      "salt": 0.01,
+      "saturatedFat": 0.5
+    }
+  },
+  {
+    "id": "r1",
+    "name": "ВИРОБИ МАКАРОННІ З ТВЕРДИХ СОРТІВ ПШЕНИЦІ FARFALLE №65 BARILLA К/У 500Г",
+    "image": "https://teakava.ua/files/products/38365945-f2de-11ec-81f1-e5f06a4944e7.1800x1200.jpeg",
+    "tradeMark": "Barilla",
+    "country": "Italy",
+    "createCardData": "11.02.2024",
+    "barCode": "8076808060654",
+    "characteristics": {
+      "thing": {
+        "grossWeight": 0.536,
+        "length": 19.6,
+        "width": 6.4,
+        "height": 14
+      },
+      "box": {
+        "quantity": 12,
+        "grossWeight": 6.75,
+        "length": 20.4,
+        "width": 39.8,
+        "height": 29.4
+      },
+      "pallet": {
+        "boxesInLayer": 8,
+        "layersOnPallet": 8,
+        "palletType": "EUR 120x80"
+      }
+    },
+    "nutritionInformation": {
+      "fat": 2,
+      "protein": 13,
+      "carbohydrates": 71,
+      "sugar": 3.5,
+      "energykJ": 1521,
+      "energykcal": 359,
+      "salt": 0.01,
+      "saturatedFat": 0.5
+    }
+  },
+  {
+    "id": "r2",
+    "name": "ВИРОБИ МАКАРОННІ З ТВЕРДИХ СОРТІВ ПШЕНИЦІ FARFALLE №65 BARILLA К/У 500Г",
+    "image": "https://teakava.ua/files/products/38365945-f2de-11ec-81f1-e5f06a4944e7.1800x1200.jpeg",
+    "tradeMark": "Barilla",
+    "country": "Italy",
+    "createCardData": "11.02.2024",
+    "barCode": "8076808060654",
+    "characteristics": {
+      "thing": {
+        "grossWeight": 0.536,
+        "length": 19.6,
+        "width": 6.4,
+        "height": 14
+      },
+      "box": {
+        "quantity": 12,
+        "grossWeight": 6.75,
+        "length": 20.4,
+        "width": 39.8,
+        "height": 29.4
+      },
+      "pallet": {
+        "boxesInLayer": 8,
+        "layersOnPallet": 8,
+        "palletType": "EUR 120x80"
+      }
+    },
+    "nutritionInformation": {
+      "fat": 2,
+      "protein": 13,
+      "carbohydrates": 71,
+      "sugar": 3.5,
+      "energykJ": 1521,
+      "energykcal": 359,
+      "salt": 0.01,
+      "saturatedFat": 0.5
+    }
+  },
+  {
+    "id": "r3",
+    "name": "ВИРОБИ МАКАРОННІ З ТВЕРДИХ СОРТІВ ПШЕНИЦІ FARFALLE №65 BARILLA К/У 500Г",
+    "image": "https://teakava.ua/files/products/38365945-f2de-11ec-81f1-e5f06a4944e7.1800x1200.jpeg",
+    "tradeMark": "Barilla",
+    "country": "Italy",
+    "createCardData": "11.02.2024",
+    "barCode": "8076808060654",
+    "characteristics": {
+      "thing": {
+        "grossWeight": 0.536,
+        "length": 19.6,
+        "width": 6.4,
+        "height": 14
+      },
+      "box": {
+        "quantity": 12,
+        "grossWeight": 6.75,
+        "length": 20.4,
+        "width": 39.8,
+        "height": 29.4
+      },
+      "pallet": {
+        "boxesInLayer": 8,
+        "layersOnPallet": 8,
+        "palletType": "EUR 120x80"
+      }
+    },
+    "nutritionInformation": {
+      "fat": 2,
+      "protein": 13,
+      "carbohydrates": 71,
+      "sugar": 3.5,
+      "energykJ": 1521,
+      "energykcal": 359,
+      "salt": 0.01,
+      "saturatedFat": 0.5
+    }
+  }
+]

@@ -17,6 +17,7 @@
 }
 
 .logo {
-  width: 100%;
+  width: auto;
+  height: 100px;
   object-fit: contain;
 }
