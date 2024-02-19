@@ -22,12 +22,13 @@ export default async function Page() {
         {counter ? (
           <p>No products found</p>
         ) : (
-          productsList.map(({ id, name, image }) => (
+          productsList.map(({ id, name, image, barCode }) => (
             <li key={id}>
               <ProductCard
                 title={name}
                 image={image}
                 url={`/dashboard/products/${id}`}
+                barCode={barCode}
               />
             </li>
           ))

@@ -1,6 +1,7 @@
 import { fetchProductById } from "../../../lib/data";
 import { notFound } from "next/navigation";
 import Image from "next/image";
+import BarcodeImage from "../../../ui/barcode/barcode";
 
 import styles from "./page.module.css";
 
@@ -29,7 +30,7 @@ export default async function Page({ params }) {
           <p>Виробник: {productData.tradeMark}</p>
           <p>Країна: {productData.country}</p>
           <p>Дата створення картки: {productData.createCardData}</p>
-          <p>Штрихкод: {productData.barCode}</p>
+          <BarcodeImage code={productData.barCode} />
         </div>
       </div>
 
