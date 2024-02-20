@@ -105,10 +105,6 @@ export default async function Page({ params }) {
                 <td>Шарів</td>
                 <td>{productData.characteristics.pallet.layersOnPallet}</td>
               </tr>
-              <tr>
-                <td>Тип піддона</td>
-                <td>{productData.characteristics.pallet.palletType}</td>
-              </tr>
             </tbody>
           </table>
         </div>
